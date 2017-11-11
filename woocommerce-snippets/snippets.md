@@ -25,3 +25,41 @@ table.shop_table th { background: #fff; color: #000; }
     .page-numbers li .current, .page-numbers a:hover, .widget_price_filter .ui-slider .ui-slider-range, .woocommerce-main-image.zoom .dp-wc-zoom > span > span, .wc-product-overlay .dp-wc-view > span > span, .woocommerce-main-image.zoom .dp-wc-zoom > span > span, .woocommerce-message, .woocommerce-error, .woocommerce-info, #payment div.payment_box, ul.products li.product .onsale, span.onsale {background: #5BC500!important; color: #ffffff!important; }
 </style>
 <?php } ?>
+
+
+<meta name="google-site-verification" content="UEUX6bi6A-QBph5GihC8gtTtbGEt6ZazAEscS8XGLM0" />
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '117697075275340'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=117697075275340&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '273487349783945'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=273487349783945&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+
+
+<!-- End Facebook Pixel Code -->

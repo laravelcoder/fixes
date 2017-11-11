@@ -20,5 +20,11 @@ wp_enqueue_style('custom', get_stylesheet_directory_uri() . '/custom.css', 100);
 <link rel="stylesheet" media="all and (orientation:portrait)" href="<?php echo get_stylesheet_directory_uri(); ?>/portrait.css?<?php echo time(); ?>">
 <link rel="stylesheet" media="all and (orientation:landscape)" href="<?php echo get_stylesheet_directory_uri(); ?>/landscape.css?<?php echo time(); ?>">
 
-F:\1\larada\clinics\lcaSTAGE\wp-content\
-F:\1\larada\clinics
+
+
+is_page();
+// When any single Page is being displayed. is_page(42);
+// When Page 42 (ID) is being displayed. is_page('Contact');
+// When the Page with a post_title of "Contact" is being displayed. is_page('about-me');
+// When the Page with a post_name (slug) of "about-me" is being displayed. is_page(array(42,'about-me','Contact'));
+// Returns true when the Pages displayed is either post ID 42.
